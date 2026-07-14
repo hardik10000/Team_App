@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "paycircle-c8ed2",
+                    "appId": "1:1091300834366:android:c3523e32f7857835e1256f",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "paycircle-c8ed2",
+                    "configurations": {
+                        "android": "1:1091300834366:android:c3523e32f7857835e1256f",
+                        "ios": "1:1091300834366:android:c3523e32f7857835e1256f",
+                        "web": "1:1091300834366:android:c3523e32f7857835e1256f"
+                    }
+                }
+            }
+        }
+    }
+}
